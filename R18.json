@@ -1,0 +1,298 @@
+[
+  {
+    "key": "ckzy",
+    "name": "CK",
+    "api": "https://ckzy.me/api.php/provide/vod/at/xml/",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "91md",
+    "name": "91麻豆",
+    "api": "https://91md.me/api.php/provide/vod/at/xml/",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "caomeiapi",
+    "name": "草莓",
+    "api": "https://caiji.caomeiapi.com/inc/api.php",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "dmmapi",
+    "name": "大MM",
+    "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "dadiapi",
+    "name": "大地",
+    "api": "https://dadiapi.com/api.php",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "xx55zyapi",
+    "name": "点点",
+    "api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "fhapi9",
+    "name": "番号",
+    "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "ggmmzy",
+    "name": "哥哥妹妹",
+    "api": "http://www.ggmmzy.com:9999/inc/xml",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "huakuiapi",
+    "name": "花魁",
+    "api": "https://caiji.huakuiapi.com/inc/api.php",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "jgczyapi",
+    "name": "精工厂",
+    "api": "https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "99zy",
+    "name": "久久",
+    "api": "http://99zy.pw/api.php/provide/vod/at/xml/",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "kudouzy",
+    "name": "裤兜",
+    "api": "https://kudouzy.com/api.php/provide/vod/at/xml/",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "kdapi",
+    "name": "酷豆",
+    "api": "https://api.kdapi.info/api.php/provide/vod/at/xml/",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "apilyzy",
+    "name": "老鸭",
+    "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "lbapi9",
+    "name": "乐播",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "leyuzy",
+    "name": "乐鱼",
+    "api": "https://leyuzy.cc/inc/zyapimac.php",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "naichaapi",
+    "name": "奶茶",
+    "api": "https://caiji.naichaapi.com/inc/api.php",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "putaozy",
+    "name": "葡萄",
+    "api": "https://caiji.putaozy.net/inc/api.php",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "maozyapi",
+    "name": "色猫",
+    "api": "https://api.maozyapi.com/inc/api.php",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "sewozyapi",
+    "name": "色窝",
+    "api": "https://sewozyapi.com/api.php/provide/vod/at/xml",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "shayuapi",
+    "name": "鲨鱼",
+    "api": "https://shayuapi.com/api.php/Seacms/vod/",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "51smt4",
+    "name": "水蜜桃",
+    "api": "http://51smt4.xyz/api.php/provide/vod/at/xml/",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "siwazyw",
+    "name": "丝袜",
+    "api": "https://siwazyw.cc/api.php/provide/vod/at/xml/",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "apittzy",
+    "name": "探探",
+    "api": "https://apittzy.com/api.php/provide/vod/at/xml",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "987caiji",
+    "name": "天噜啦",
+    "api": "http://www.987caiji.com/api/max.php",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "52zyapi",
+    "name": "吾爱",
+    "api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/xml",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "xjjzyapi",
+    "name": "小姐姐",
+    "api": "https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "xiuseapi",
+    "name": "秀色",
+    "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "ykapi",
+    "name": "影库",
+    "api": "https://api.ykapi.net/api.php/provide/vod/at/xml/",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "523zyw",
+    "name": "523资源",
+    "api": "https://caiji.523zyw.com/inc/seacmsapi.php",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "kkzy",
+    "name": "KK资源网",
+    "api": "https://kkzy.me/api.php/provide/vod/at/xmlsea",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "bttcj",
+    "name": "博天堂资源站",
+    "api": "http://bttcj.com/inc/sapi.php",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "f2dcj6",
+    "name": "富二代资源",
+    "api": "http://f2dcj6.com/sapi/?ac=videolist",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "zmcj88",
+    "name": "字幕组资源",
+    "api": "http://zmcj88.com/sapi/?ac=videolist",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "llzxcj",
+    "name": "利来资源",
+    "api": "http://llzxcj.com/inc/api.php?ac=videolist",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "mygzycj",
+    "name": "名优馆资源",
+    "api": "http://mygzycj.com/sapi.php?ac=videolist",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "mgzyz1",
+    "name": "芒果资源",
+    "api": "https://mgzyz1.com/api.php",
+    "group": "18禁",
+    "isActive": true,
+    "status": "可用"
+  }
+]

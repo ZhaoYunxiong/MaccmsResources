@@ -1,0 +1,154 @@
+[
+  {
+    "key": "tiankongapi",
+    "name": "天空资源",
+    "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "feisuzyapi",
+    "name": "飞速综合资源",
+    "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "1080zyku",
+    "name": "麻花资源",
+    "api": "https://api.1080zyku.com/inc/api_mac10.php",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "apibdzy",
+    "name": "百度资源",
+    "api": "https://api.apibdzy.com/api.php/provide/vod/",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "39kan",
+    "name": "39影视",
+    "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "bajiecaiji",
+    "name": "八戒采集",
+    "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "guangsuapi",
+    "name": "光速资源",
+    "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "jyzyapi",
+    "name": "金鹰资源",
+    "api": "https://jyzyapi.com/provide/vod/at/xml",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "kudian8",
+    "name": "酷点资源",
+    "api": "https://kudian8.com/api.php/provide/vod/at/xml",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "kuaibozy",
+    "name": "快播资源",
+    "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "lehootv",
+    "name": "乐活影视",
+    "api": "https://lehootv.com/api.php/provide/vod/at/xml",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "sdzyapi",
+    "name": "闪电资源",
+    "api": "https://sdzyapi.com/api.php/provide/vod/at/xml",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "taopianapi",
+    "name": "淘片资源采集",
+    "api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "wolongzyw",
+    "name": "卧龙资源站综合资源",
+    "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "xinlangapi",
+    "name": "新浪资源",
+    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "yulecj",
+    "name": "鱼乐资源",
+    "api": "https://api.yulecj.com/api.php/provide/vod/at/xml",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "wujinapi",
+    "name": "无尽资源",
+    "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "umao",
+    "name": "U猫",
+    "api": "http://umao.ml/api.php/provide/vod/at/xml",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "fqzy",
+    "name": "番茄影院",
+    "api": "http://api.fqzy.cc/api.php",
+    "group": "影视",
+    "isActive": true,
+    "status": "可用"
+  }
+]

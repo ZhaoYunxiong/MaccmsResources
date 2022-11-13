@@ -136,9 +136,9 @@
     "status": "可用"
   },
   {
-    "key": "umao",
-    "name": "U猫",
-    "api": "http://umao.ml/api.php/provide/vod/at/xml",
+    "key": "ckzy",
+    "name": "CK",
+    "api": "https://ckzy.me/api.php/provide/vod/at/xml/",
     "group": "影视",
     "isActive": true,
     "status": "可用"

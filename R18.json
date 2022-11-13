@@ -1,13 +1,5 @@
 [
   {
-    "key": "ckzy",
-    "name": "CK",
-    "api": "https://ckzy.me/api.php/provide/vod/at/xml/",
-    "group": "18禁",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
     "key": "91md",
     "name": "91麻豆",
     "api": "https://91md.me/api.php/provide/vod/at/xml/",
